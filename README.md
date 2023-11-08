@@ -11,8 +11,6 @@ Find the extension [here](https://chrome.google.com/webstore/detail/uio-gamlifis
 
 ---
 
-Welcome to the official repository for the Undetectable YouTube AdBlocker, a Chrome/Chromium extension that's a cut above the rest, employing Manifest V3's latest features.
-
 ## 🖼️ Screenshots
 
 <p align="center">
