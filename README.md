@@ -14,6 +14,7 @@ Find the extension [here](https://chrome.google.com/webstore/detail/uio-gamlifis
 ## 🖼️ Screenshots
 
 <p align="center">
+  <img src="https://github.com/lukamomc/UiOGamlifiser/assets/52632596/22595efc-882f-4d7d-9b1c-00bcdaef65e1" width="100%" height="400px">
   <img src="https://github.com/lukamo1996/UiOGamlifiser/assets/52632596/aa8443a6-f2eb-4faa-94c8-78736f14d431" width="400px" height="400px" >
   <img src="https://github.com/lukamo1996/UiOGamlifiser/assets/52632596/5b053daf-03c0-494c-b0a2-49a8b2937fc6" width="400px" height="400px">
 </p>
